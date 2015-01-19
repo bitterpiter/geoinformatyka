@@ -15,12 +15,14 @@
     },
     "language": {
         "@instanceHighlight": "true",
+        "@semi": "true",
         "@undeclaredVars": "true",
         "@unusedFunctionArgs": "false",
         "@warnLevel": "info"
     },
     "run": {
         "@path": "/.c9/runners",
+        "@runner": "Apache httpd (PHP, HTML)",
         "configs": {
             "@inited": "true",
             "json()": {}
